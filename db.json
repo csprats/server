@@ -2,7 +2,8 @@
   "cschat": [
     {
       "id": "1",
-      "message": "Welcome to cschat! This is a new social messaging network created by csvalley"
+      "user": "csvalley",
+      "message": "Welcome to cschat!"
     }
   ]
 }
