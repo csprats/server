@@ -5,5 +5,9 @@ This is my json server for my projects, at the moment this repository only works
 # Starting
 
 ``
+npm install
+``
+
+``
 npm run server
 ``
