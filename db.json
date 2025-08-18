@@ -4,6 +4,11 @@
       "id": "1",
       "user": "csvalley",
       "message": "Welcome to cschat!"
+    },
+    {
+      "id": "2",
+      "user": "csvalley",
+      "message":"Is a public and simple chat"
     }
   ]
 }
